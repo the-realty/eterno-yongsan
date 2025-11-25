@@ -14,6 +14,21 @@ const notoSansKr = Noto_Sans_KR({
 export const metadata: Metadata = {
   title: "에테르노 용산",
   description: "용산공원과 더파크사이드 서울 바로 옆 크라운호텔 부지에 에테르노 청담, 에테르노 압구정에 이어서 최상의 하이엔드 에테르노 용산에 새롭게 들어섭니다.",
+    openGraph: {
+        title: "에테르노 용산",
+        description:
+            "용산공원과 더파크사이드 서울 바로 옆 크라운호텔 부지에 위치한 최고급 하이엔드 에테르노 용산",
+        url: "https://용산에테르노.com",
+        images: [
+            {
+                url: "/image/og_image.jpg",
+                width: 1200,
+                height: 630,
+                alt: "에테르노 용산 OG Image",
+            },
+        ],
+        type: "website",
+    },
 };
 
 export default function RootLayout({

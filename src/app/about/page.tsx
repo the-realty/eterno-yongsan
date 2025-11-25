@@ -17,7 +17,7 @@ export default function AboutPage() {
                         <InfoRow label="지역/지구" value="제3종 일반주거지역, 중점경관관리구역" />
                         <InfoRow label="대지면적" value="4,994㎡ (약 1,510.69평)" />
                         <InfoRow label="구성" value="오피스텔 4실, 공동주택 29세대, 근린생활시설" />
-                        <InfoRow label="규모" value="지하 4층 ~ 지상 25층" />
+                        <InfoRow label="규모" value="지하 4층 ~ 지상 14층 | 총 2개동" />
                         <InfoRow label="착공 예정" value="2025년 말 착공 예정" />
                         <InfoRow label="준공 예정" value="2028년 ~ 2029년 준공 예정" />
                         <InfoRow label="시공사" value="현대건설" />

@@ -29,6 +29,14 @@ export const metadata: Metadata = {
         ],
         type: "website",
     },
+    robots: {
+        index: true,
+        follow: true,
+        nocache: false,
+    },
+    alternates: {
+        canonical: "https://용산에테르노.com",
+    },
 };
 
 export default function RootLayout({
